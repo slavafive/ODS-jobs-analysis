@@ -1,5 +1,5 @@
 # ODS Jobs Article
-Analysis article on Data Science salaries based on vacancies published in ODS community in Russia
+Analysis article on Data Science salaries based on vacancies published in ODS community in Russia. The analysis includes vacancies in #_jobs, #_jobs_hr and #_jobs_phd channels
 
 📘[Article](https://habr.com/ru/company/ods/blog/572264/)
 
